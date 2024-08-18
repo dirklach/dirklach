@@ -1,0 +1,4 @@
+---
+navigation:
+  draft: true
+---
