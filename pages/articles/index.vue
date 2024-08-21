@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-8xl mb-12">Blog Articles</h1>
+    <h1 class="text-8xl mb-12">Articles</h1>
     <ul class="mb-12">
       <li>Change Active Page Class</li>
       <li>Show all Articles except active</li>

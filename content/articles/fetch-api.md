@@ -1,8 +1,9 @@
 ---
-title: "How to Change Active Link Classes in Nuxt 3"
+title: "Fetch API"
 description: "Loorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Loorem ipsum dolor sit amet."
 dateModified: "2020-04-17"
 datePublished: "2019-01-29"
+featuredImage: "/img/articles/api.png"
 topics:
   - nuxt
   - jamstack
@@ -35,6 +36,8 @@ export default defineNuxtConfig({
   },
 });
 ```
+
+[![App Platorm](img)](https://www.digitalocean.com/products/app-platform)
 
 ### Explanation
 

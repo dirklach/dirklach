@@ -9,6 +9,12 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ["~/assets/scss/main.scss"],
 
+  content: {
+    highlight: {
+      theme: "slack-dark",
+    },
+  },
+
   postcss: {
     plugins: {
       tailwindcss: {},

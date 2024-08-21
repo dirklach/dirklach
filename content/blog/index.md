@@ -1,4 +1,0 @@
----
-navigation:
-  draft: true
----
