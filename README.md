@@ -1,5 +1,4 @@
-# Designer
-# who codes.
+# Designer who codes.
 
 I am a passionate **Senior Designer & Frontend Developer** with over 15 years of experience in the design industry. I thrive on crafting seamless and visually appealing user experiences. My expertise lies in blending the art of design with the precision of development, ensuring every project is not only functional but also a joy to use.
 
