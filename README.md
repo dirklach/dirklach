@@ -1,4 +1,4 @@
-## I have won some awards, and my work has been seen by millions of people.
+## Designer who codes.
 
 I am a passionate **Senior Designer & Frontend Developer** with over 15 years of experience in the design industry. I thrive on crafting seamless and visually appealing user experiences. My expertise lies in blending the art of design with the precision of development, ensuring every project is not only functional but also a joy to use.
 
@@ -6,9 +6,9 @@ My career began in 2009 as a designer at a renowned German design agency, where 
 
 Driven by a passion for the web, I delved deeply into web development early on. The desire to do more than just design led me to embrace frontend development, complementing my design skills with technical expertise. This dual role allows me to create visually stunning and user-friendly experiences, blending the art of design with the precision of development to ensure each project is both functional and delightful to use.
 
-Today I call myself a **designer who codes**. My background is heavily influenced by design. But I've always wanted to bring those designs to life independently. This hybrid skill set allows me to provide comprehensive consulting and end-to-end realization of digital projects.
+Today I call myself a **designer who codes**. My background is heavily influenced by design. But I've always wanted to bring those designs to life independently. This hybrid skill set allows me to provide comprehensive consulting and end-to-end realization of digital projects. I have won some awards, and my work has been seen by millions of people.
 
-I am able to take on flexible roles in projects. I can either support a project only as a designer or only as a developer, or I can support projects from start to finish as a designer and developer at the same time.
+I am able to take on flexible roles in projects. I can either support a project only as a designer or only as a developer, or I can support projects from start to finish as a designer and developer at the same time. 
 
 
 ### ✨ Current focus:
