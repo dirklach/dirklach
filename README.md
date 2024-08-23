@@ -12,6 +12,7 @@ Today I call myself a **designer who codes**. My background is heavily influence
 
 I am able to take on flexible roles in projects. I can either support a project only as a designer or only as a developer, or I can support projects from start to finish as a designer and developer at the same time. 
 
+---
 
 ### ✨ Current focus:
 
@@ -21,11 +22,13 @@ I am able to take on flexible roles in projects. I can either support a project 
 - **Design Systems:** Developing consistent and scalable design systems to maintain visual coherence across projects.
 - **GSAP:** Bringing designs to life with GreenSock Animation Platform, creating fluid, high-performance animations that enhance user engagement and interactivity.
 
+---
 
 ### 🛠️ What I’m Working On
 
 I’m currently diving deeper into Vue 3 and Nuxt 3, learning and building with real-life projects to enhance my skills and deliver impactful solutions. I will be launching some side projects in this field soon.
 
+---
 
 ### 🙌 Let's Connect
 
