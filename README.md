@@ -18,11 +18,7 @@ I am able to take on flexible roles in projects. I can either support a project 
 
 Vue · Nuxt · CSS · Design Systems · GSAP
 
----
-
-### 🛠️ What I’m Working On
-
-I’m currently diving deeper into Vue 3 and Nuxt 3, learning and building with real-life projects to enhance my skills and deliver impactful solutions. I will be launching some side projects in this field soon.
+I’m currently diving deeper into Vue and Nuxt. I will be launching some side projects in this field soon.
 
 ---
 
