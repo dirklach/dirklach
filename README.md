@@ -16,11 +16,7 @@ I am able to take on flexible roles in projects. I can either support a project 
 
 ### ✨ Current focus:
 
-- **Vue:** Building dynamic, responsive interfaces with Vue.js, leveraging its component-based architecture to create maintainable and scalable applications.
-- **Nuxt:** Utilizing Nuxt.js for server-side rendering, static site generation, and improved SEO, all while maintaining a smooth development experience.
-- **CSS:** Mastering the art of styling with modern CSS techniques, to create pixel-perfect layouts that are both responsive and cross-browser compatible.
-- **Design Systems:** Developing consistent and scalable design systems to maintain visual coherence across projects.
-- **GSAP:** Bringing designs to life with GreenSock Animation Platform, creating fluid, high-performance animations that enhance user engagement and interactivity.
+Vue · Nuxt · CSS · Design Systems · GSAP
 
 ---
 
