@@ -1,75 +1,27 @@
-# Nuxt 3 Minimal Starter
+# Designer who codes.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+I am a passionate **Senior Designer & Frontend Developer** with over 15 years of experience in the design industry. I thrive on crafting seamless and visually appealing user experiences. My expertise lies in blending the art of design with the precision of development, ensuring every project is not only functional but also a joy to use.
 
-## Setup
+My career began in 2009 as a designer at a renowned German design agency, where I worked primarily with clients in the arts and culture sector. I then joined two of the world’s most famous advertising agencies, focusing on clients in the automotive industry. Over the years, I expanded my expertise across various industries, including insurance, start-ups, sports, and finance.
 
-Make sure to install the dependencies:
+Driven by a passion for the web, I delved deeply into web development early on. The desire to do more than just design led me to embrace frontend development, complementing my design skills with technical expertise. This dual role allows me to create visually stunning and user-friendly experiences, blending the art of design with the precision of development to ensure each project is both functional and delightful to use.
 
-```bash
-# npm
-npm install
+> I have won some awards, and my work has been seen by millions of people.
 
-# pnpm
-pnpm install
+Today I call myself a **designer who codes**. My background is heavily influenced by design. But I've always wanted to bring those designs to life independently. This hybrid skill set allows me to provide comprehensive consulting and end-to-end realization of digital projects.
 
-# yarn
-yarn install
+I am able to take on flexible roles in projects. I can either support a project only as a designer or only as a developer, or I can support projects from start to finish as a designer and developer at the same time.
 
-# bun
-bun install
-```
+---
 
-## Development Server
+### ✨ Current focus:
 
-Start the development server on `http://localhost:3000`:
+Vue · Nuxt · CSS · Design Systems · GSAP
 
-```bash
-# npm
-npm run dev
+I’m currently diving deeper into Vue and Nuxt. I will be launching some side projects in this field soon.
 
-# pnpm
-pnpm run dev
+---
 
-# yarn
-yarn dev
+### 🙌 Let's Connect
 
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+I'm always open to collaborating on innovative projects or discussing ideas. Feel free to reach out if you want to chat about web development, design, or anything in between!
