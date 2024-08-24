@@ -30,7 +30,7 @@ console.log(filteredPosts);
             {{ title }}
           </h1>
 
-          <p class="text-s opacity-40">
+          <p class="text-s">
             {{ description }}
           </p>
         </NuxtLink>

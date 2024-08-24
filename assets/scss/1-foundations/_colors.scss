@@ -3,9 +3,11 @@
 // ==================================================================
 
 :root {
-  --clr-text: var(--clr-white);
+  --clr-heading: var(--clr-white);
+  --clr-text: var(--clr-mono-400);
   --clr-background: var(--clr-black);
 
-  --clr-white: #fff;
+  --clr-white: #cecece;
+  --clr-mono-400: #909090;
   --clr-black: #000;
 }

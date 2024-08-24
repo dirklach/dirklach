@@ -6,7 +6,7 @@ const isBlogActive = computed(() => {
 </script>
 
 <template>
-  <div class="c-header | mx-12 flex flex-row justify-between mx-auto">
+  <div class="c-header | flex flex-row justify-between mx-12">
     <div class="c-logo">
       <div class="c-logo">Dirk Lach</div>
       <div class="c-claim">Designer and Developer</div>

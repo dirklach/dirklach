@@ -12,6 +12,7 @@
     "format": "prettier --write \"{components,pages,plugins,middleware,layouts,composables,assets}/**/*.{js,jsx,ts,tsx,vue,html,css,scss,json,md}\""
   },
   "dependencies": {
+    "gsap": "^3.12.5",
     "highlight.js": "^11.10.0",
     "nuxt": "^3.12.4",
     "vue": "latest",

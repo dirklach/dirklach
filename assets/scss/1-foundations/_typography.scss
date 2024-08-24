@@ -94,6 +94,7 @@ h6 {
   font-weight: 400;
   margin: 0;
   padding: 0;
+  color: var(--clr-heading);
 }
 
 @mixin heading {
@@ -137,26 +138,32 @@ h6 {
 
 .heading-1 {
   @include heading-1;
+  color: white;
 }
 
 .heading-2 {
   @include heading-2;
+  color: white;
 }
 
 .heading-3 {
   @include heading-3;
+  color: white;
 }
 
 .heading-4 {
   @include heading-4;
+  color: white;
 }
 
 .heading-5 {
   @include heading-5;
+  color: white;
 }
 
 .heading-6 {
   @include heading-6;
+  color: white;
 }
 
 // ==========================================================================

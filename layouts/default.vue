@@ -1,9 +1,9 @@
 <template>
   <div>
     <AppHeader />
-    <div class="c-main | container mx-auto">
+    <main class="c-main | container mx-auto">
       <slot />
-    </div>
+    </main>
     <AppFooter />
   </div>
 </template>
