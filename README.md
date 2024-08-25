@@ -17,6 +17,7 @@ I am able to take on flexible roles in projects. I can either support a project 
 | ![Vue](https://api.iconify.design/logos:vue.svg?color=%23888888) Vue | ![Nuxt](https://api.iconify.design/logos:nuxt-icon.svg?color=%23888888) Nuxt | ![CSS](https://api.iconify.design/logos:css-3.svg?color=%23888888) CSS | ![Design Systems](https://api.iconify.design/tdesign:browse.svg?color=%23888888) Design Systems | ![GSAP](https://api.iconify.design/logos:greensock-icon.svg?color=%23888888) GSAP |
 |-----|------|-----|----------------|------|
 
+
 ---
 
 ### 🙌 Let's Connect
