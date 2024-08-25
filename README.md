@@ -16,7 +16,7 @@ I am able to take on flexible roles in projects. I can either support a project 
 
 ### ✨ Current focus:
 
-| Vue | Nuxt | CSS | Design Systems | GSAP |
+| Vue ![Vue](https://api.iconify.design/logos:vue.svg?color=%23888888) | Nuxt | CSS | Design Systems | GSAP |
 |-----|------|-----|----------------|------|
 
 I’m currently diving deeper into Vue and Nuxt. I will be launching some side projects in this field soon.
