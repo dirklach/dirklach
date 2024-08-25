@@ -21,4 +21,5 @@ I am able to take on flexible roles in projects. I can either support a project 
 
 ### 🙌 Let's Connect
 
-I'm always open to collaborating on innovative projects or discussing ideas. Feel free to reach out if you want to chat about web development, design, or anything in between!
+> I'm always open to collaborating on innovative projects or discussing ideas.
+> Feel free to reach out if you want to chat about web development, design, or anything in between!
