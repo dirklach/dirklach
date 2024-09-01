@@ -1,4 +1,4 @@
-# Designer who codes.
+# Designer and Developer
 
 ### ✨ Current focus:
 
