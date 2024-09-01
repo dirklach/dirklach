@@ -7,7 +7,7 @@
 
 ---
 
-I’m a Senior Designer & Frontend Developer with 15+ years of experience, blending design and development to craft seamless user experiences. I take on flexible roles, either as a designer, developer, or both, ensuring projects are both functional and visually appealing. Passionate about the web, high-quality design, and modern technology, I combine design and coding skills to bring ideas to life, offering a comprehensive skillset for successful digital projects.
+I’m a **Designer & Developer** with 15+ years of experience, blending design and development to craft seamless user experiences. I take on flexible roles, either as a designer, developer, or both, ensuring projects are both functional and visually appealing. Passionate about the web, high-quality design, and modern technology, I combine design and coding skills to bring ideas to life, offering a comprehensive skillset for successful digital projects.
 
 ---
 
