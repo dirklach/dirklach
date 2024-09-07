@@ -7,7 +7,7 @@
 
 ---
 
-I’m a **Designer and Developer** with 15+ years of experience. Initially focused solely on design, I increasingly shifted towards web development, and now blend both to craft user experiences from start to finish. I take on flexible roles, whether as a designer, developer, or both. Passionate about the web, high-quality design, and modern technology, I combine design and coding skills to bring ideas to life, offering a comprehensive skill set for successful digital projects.
+I’m a **Designer and Developer** with 15+ years of experience. Initially focused solely on design, I increasingly shifted towards web development, and now blend both to craft user experiences from start to finish. I take on flexible roles, whether as a designer, developer, or both. Passionate about the web, high-quality design, and modern technology, I combine design and coding skills to bring ideas to life, offering a comprehensive skill set for successful digital projects :).
 
 ---
 
