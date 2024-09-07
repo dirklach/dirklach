@@ -16,4 +16,4 @@ I’m a **Designer and Developer** with 15+ years of experience. Initially focus
 >
 > I'm always open to collaborating on nice projects or discussing ideas.
 > Feel free to reach out if you want to chat about web development, design, or anything in between!
->
+
